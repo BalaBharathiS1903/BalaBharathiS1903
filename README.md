@@ -12,7 +12,9 @@
 
 <!-- Profile views + followers -->
 <img src="https://komarev.com/ghpvc/?username=BalaBharathiS1903&label=Profile+Views&color=1a6ef5&style=flat-square" alt="profile views"/>
+&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=BalaBharathiS1903&label=Profile+Views&color=1a6ef5&style=flat-square)
+&nbsp;
 ![Visitor Count](https://visitcount.itsvg.in/api?id=BalaBharathiS1903&label=Profile%20Views&color=1&icon=0&pretty=true)
 &nbsp;
 <img src="https://img.shields.io/github/followers/BalaBharathiS1903?label=Followers&style=flat-square&color=1a6ef5" alt="followers"/>
