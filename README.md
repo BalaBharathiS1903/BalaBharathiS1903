@@ -1,21 +1,14 @@
 <div align="center">
 
-<!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a6ef5&height=200&section=header&text=Bala%20Bharathi%20S&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20MCA%202027&descColor=7eb3ff&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Building+production-grade+web+applications;MCA+%40+Bishop+Heber+College+2027;Open+to+SDE+%2F+Java+Developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views + followers -->
 <img src="https://komarev.com/ghpvc/?username=BalaBharathiS1903&label=Profile+Views&color=1a6ef5&style=flat-square" alt="profile views"/>
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=BalaBharathiS1903&label=Profile+Views&color=1a6ef5&style=flat-square)
-&nbsp;
-![Visitor Count](https://visitcount.itsvg.in/api?id=BalaBharathiS1903&label=Profile%20Views&color=1&icon=0&pretty=true)
 &nbsp;
 <img src="https://img.shields.io/github/followers/BalaBharathiS1903?label=Followers&style=flat-square&color=1a6ef5" alt="followers"/>
 &nbsp;
@@ -80,7 +73,7 @@ public class BalaBharathi {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=yolo&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=ultralytics&logoColor=white)
 
 </div>
 
@@ -166,7 +159,6 @@ public class BalaBharathi {
 
 <div align="center">
 
-<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalaBharathiS1903&bg_color=04080f&color=00d4ff&line=1a6ef5&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a6ef5&height=100&section=footer&animation=fadeIn" width="100%"/>
