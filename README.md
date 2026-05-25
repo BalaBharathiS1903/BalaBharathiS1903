@@ -31,7 +31,8 @@ public class BalaBharathi {
 
     String[] stack = {
         "Java 17", "Spring Boot 3.2", "React.js 18",
-        "MySQL 8", "JWT + BCrypt", "REST APIs", "Hibernate"
+        "MySQL 8", "JWT + BCrypt", "REST APIs", "Hibernate",
+        "TypeScript", "Python", "JavaScript (ES6+)"
     };
 
     String[] experience = {
@@ -53,6 +54,7 @@ public class BalaBharathi {
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -86,9 +88,24 @@ public class BalaBharathi {
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🎓 **EduSync ERP** | Production-grade College Management System with role-based access, GPA/CGPA auto-calculation, attendance tracking, fee management & PDF receipts | React 18 · Spring Boot 3.2 · MySQL · JWT | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/college-erp-final) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://college-erp-final.vercel.app) |
-| 🤖 **Crowd Density Detection** | Real-time crowd estimation using YOLOv8 — classifies crowd as Low / Medium / High with bounding box detection | Python · YOLOv8 · React.js | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/crowd) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://crowd-flax.vercel.app) |
-| 🏦 **Simple Banking System** | Java banking app with full CRUD on account holders, JDBC + MySQL connectivity and robust error handling | Java · JDBC · MySQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/SBIBANK) |
-| 📚 **Library Management System** | Java-based library operations management — book issuance, returns, member management with JDBC + MySQL | Java · JDBC · MySQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/LIB) |
+| 🔍 **JobFinder** | Job search & listing platform with filtering, real-time search, and responsive UI | JavaScript · React | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/jobfinder) |
+| 🤖 **ATScan ResumeChecker** | ATS-based resume analyzer that scores resumes against job descriptions and gives improvement suggestions | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/ATScan-ResumeChecker) |
+| 👥 **Crowd Density Detection** | Real-time crowd estimation using YOLOv8 — classifies crowd as Low / Medium / High with bounding box detection | Python · YOLOv8 · React.js | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/crowd) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://crowd-flax.vercel.app) |
+| 🎓 **Campus Placement Portal** | End-to-end campus placement management — student profiles, job listings, application tracking | TypeScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Campus_Placement) |
+| 🕐 **Timesheet Management System** | Employee timesheet tracker with work logs, approval workflow & reporting dashboard | TypeScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Timesheet-Management-System) |
+| 🎫 **Ticket Booking System** | Online ticket reservation platform with seat selection and booking management | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Ticket-Booking-System) |
+| 🏛️ **Hall Booking System** | Venue reservation system with availability calendar and booking confirmation | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/hall-booking-system) |
+| 🏫 **Student Management System** | Full student record management — enrollment, grades, attendance & reports | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Student-Management-System) |
+| 🌐 **Translator App** | Multi-language translation tool with clean UI and real-time translation | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Translator) |
+| 📦 **Warehouse Management** | Inventory & warehouse tracking system with stock management and reporting | Python | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/warehouse-management) |
+| 🍔 **Food Cart System** | Food ordering cart with menu management, cart operations and order tracking | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Food-Cart-System) |
+| 🌸 **Flower Cart System** | E-commerce cart for floral products with product catalog & order management | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Flower-Cart-System) |
+| 🧠 **Content-IQ** | Smart content platform with AI-powered content intelligence features | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Content-IQ) |
+| 💬 **Communication Chatbot** | Conversational chatbot for streamlined user communication | JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/communication-chatbot) |
+| ✅ **TodoList (VDart)** | Task management app built during VDart OJT with clean UI | TypeScript | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/todolist-vdart) |
+| 📬 **Mail Merge** | Automated mail merge tool for bulk personalized email generation | Python | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/Mail_merge) |
+| 🏦 **SRIBANK** | Java banking system with full CRUD on accounts, JDBC + MySQL connectivity | Java · JDBC · MySQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/SRIBANK) |
+| 📚 **Library Management System** | Java-based library operations — book issuance, returns & member management | Java · JDBC · MySQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BalaBharathiS1903/LIB) |
 
 </div>
 
